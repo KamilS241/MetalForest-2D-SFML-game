@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Player">
+    <Position X="6.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAIAAACABAAAAAAAAAAAAACBAAAAAQAEAAA=</HashCode>
+      <FileName>Entities.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealthPack">
+    <Position X="16.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIgAAAIAAACgBAAAAAAAAAAAAACBAAAAAAAEAAA=</HashCode>
+      <FileName>Entities.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAABAAAAgCAACAAgIgAAAABACEIAAShAgQEAgIIA=</HashCode>
+      <FileName>App.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkuJgBCgwIAgAAQFJ2CQBBAIAAmAEQiL0RggCAE0JAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entity">
+    <Position X="10.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFAYwBoARAI0oACYJAAAAQAAACAQAYKTIIQAAoQ1MAk=</HashCode>
+      <FileName>Entities.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Boss">
+    <Position X="10.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIgAAAAAAACAQAAAIAAAAAAAAACBgAAAAAAEAAA=</HashCode>
+      <FileName>Entities.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet">
+    <Position X="12.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAgAAAAAAACAAAAAAAAAAAABAACBAAAAAIAUgAA=</HashCode>
+      <FileName>Entities.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Grenade">
+    <Position X="14.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAAgAAAAQAACAAAAAAAAAAgAAAACBEAAAAAAEAAA=</HashCode>
+      <FileName>Entities.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy">
+    <Position X="8.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAggAAAAAgACAAAAAAAAAAAABAACBAAAAAAAEAAA=</HashCode>
+      <FileName>Entities.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
